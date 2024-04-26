@@ -1,8 +1,8 @@
 # **Meu Perfil**
 ## _Giovanna F. Piquione_
-* Estudo na Escola Sesi-348 de Álvares Machado. 
+* Estudo na Escola Sesi. 
 * Tenho 16 anos.
-* Estudo Desenvolvimento de  Sistemas No Senai do Presidente Prudente. 
+* Estudo Desenvolvimento de  Sistemas No Senai. 
 # Hobbies 
 * Gosto Muito de Tocar Violão.
 * Gosto de ouvir Música.    
