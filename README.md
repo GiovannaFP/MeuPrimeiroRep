@@ -7,3 +7,4 @@
 * Gosto Muito de Tocar Violão.
 * Gosto de ouvir Música.    
 * Gosto de assistir Filmes e Séries.
+* Gosto de Jogar em Jogos Offline e Online.
